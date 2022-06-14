@@ -11,6 +11,7 @@ openJDK 11.0.15 версия или новее
 MySQL (с созданной database и юзером)
 <br>
 Наличие двух директорий:
+<br>
 /home/roman/
 <br>
 /home/roman/uploads/
