@@ -12,6 +12,7 @@ MySQL (с созданной database и юзером)
 <br>
 Наличие двух директорий:
 /home/roman/
+<br>
 /home/roman/uploads/
 
 
