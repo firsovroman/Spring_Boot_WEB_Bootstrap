@@ -19,7 +19,7 @@ MySQL (с созданной database и юзером)
 
 В проекте использовались:
 <br>
-Java
+Java 11
 <br>
 Spring Boot
 
