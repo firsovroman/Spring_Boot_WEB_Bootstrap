@@ -18,16 +18,23 @@ MySQL (с созданной database и юзером)
 
 
 В проекте использовались:
-Java 
+<br>
+Java
+<br>
 Spring Boot
 
 MySQL
+<br>
 Hibernate/JPA
+<br>
 Версионирование БД с использованием FlyWay
 
 HTML
+<br>
 CSS
+<br>
 Шаблонизатор FreeMarker
+<br>
 Bootstrap
 
 Log4j2
