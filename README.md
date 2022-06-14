@@ -3,7 +3,7 @@
 
 Требования при развертывании:
 openJDK 11.0.15 версия или новее
-MySQL (с созданной database и юзером описанными в application.property)
+MySQL (с созданной database и юзером)
 
 Наличие двух директорий:
 /home/roman/
